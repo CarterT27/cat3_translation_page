@@ -1,0 +1,236 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f3f4f6;
+  color: #333333;
+}
+
+.header {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.lyrics-container {
+  max-width: 800px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.lyrics {
+  text-align: center;
+}
+
+.lyrics p {
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.5px;
+}
+
+.korean-lyrics p {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+}
+
+.bibliography {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.bibliography li {
+  margin-bottom: 8px;
+}
+.title {
+  display: flex;
+  text-align: center;
+}
+/* App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  background-color: #805ad5;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.lyrics-container {
+  background-color: #fff;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  padding: 5rem;
+}
+
+.title {
+  color: #4a5568;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.lyrics {
+  margin-bottom: 2rem;
+}
+
+.bibliographyHeading {
+  text-align: center;
+}
+.bibliography {
+  margin-top: 2rem;
+  color: #4a5568;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.bibliography a {
+  color: #805ad5;
+  text-decoration: underline;
+}
+
+.bibliography a:hover {
+  color: #6b46c1;
+}
+/* App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.header {
+  background-color: #1a202c;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.lyrics-container {
+  background-color: #fff;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  padding: 2rem;
+}
+
+.title {
+  color: #1a202c;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.lyrics {
+  margin-bottom: 2rem;
+  color: #374151;
+}
+
+.lyrics p {
+  margin-bottom: 1rem;
+}
+
+.bibliography {
+  margin-top: 2rem;
+  color: #1a202c;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.bibliography a {
+  color: #805ad5;
+  text-decoration: underline;
+}
+
+.bibliography a:hover {
+  color: #6b46c1;
+}
+/* App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.header {
+  background-image: linear-gradient(to right, #805ad5, #fda085);
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.lyrics-container {
+  background-color: #fff;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  padding: 2rem;
+}
+
+.title {
+  color: #1a202c;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.lyrics {
+  margin-bottom: 2rem;
+  color: #374151;
+}
+
+.lyrics p {
+  margin-bottom: 1rem;
+}
+
+.bibliography {
+  margin-top: 2rem;
+  color: #1a202c;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.bibliography a {
+  color: #805ad5;
+  text-decoration: underline;
+}
+
+.bibliography a:hover {
+  color: #6b46c1;
+}
