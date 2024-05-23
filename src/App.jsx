@@ -93,6 +93,96 @@ function App() {
         꽃 피울 때까지 <br />
         그곳에 좀 더 머물러줘, 머물러줘
         </p>
+        <h2>Spring Day Translation</h2>
+        <p>
+        I miss you.<br />
+        Saying this makes me miss you even more<br />
+        Even when I'm staring at your pictures<br />
+        I miss you<br />
+        Time is so cruel, I hate us<br />
+        How It became hard for us to see each others face even once <br />
+        It's only winter here, even in August winter comes <br />
+        My heart runs through time, the Snowpiercer left alone<br />
+        I want to hold your hand, go to the other side of the earth and end this winter <br />
+        How much longing should fall like snow, will that spring day come, friend<br />
+        </p>
+        <p>
+        Like a tiny dust floating in the air, like a tiny dust <br />
+        If I was the snow swifting through the air <br />
+        I could’ve reached you faster <br />
+        </p>
+        <p>
+        Snowflakes are falling <br />
+        And I’m slowly drifting away again<br />
+        I miss you (I miss you) <br />
+        I miss you (I miss you) <br />
+        How long do I have to wait<br />
+        How many more sleepless nights <br />
+        Until I see you again (see you again) <br />
+        Meet you again (meet you again ooh-ooh-ooh) <br />
+        </p>
+        <p>
+        Pass the end of winter’s cold<br />
+        Until spring day comes again <br />
+        Until the flowers bloom again <br />
+        Please stay there a little longer, a little longer<br />
+        </p>
+        <p>
+        Is it you who changed? (is it you who changed) <br />
+        Or is it me? (or is it me) <br />
+        Even the time passing right now <br />
+        I hate it <br />
+        I guess we changed <br />
+        I guess everyone does <br />
+        Yes I hate you<br />
+        Although you left <br />
+        There wasn’t a single day where I forgot about you, I <br />
+        Honestly miss you but <br />
+        I’ll forget about you now <br />
+        That will hurt less than despising you <br />
+        </p>
+        <p>
+        I try to exhale you in pain<br />
+        Like smoke, like white smoke <br />
+        I say that I’ll erase you <br />
+        But honestly I <br />
+        Cannot let you go <br />
+        </p>
+        <p>
+        Snowflakes are falling <br />
+        And I’m slowly drifting away again<br />
+        I miss you (I miss you) <br />
+        I miss you (I miss you) <br />
+        How long do I have to wait<br />
+        How many more sleepless nights <br />
+        Until I see you again (see you again) <br />
+        Meet you again (meet you again ooh-ooh-ooh) <br />
+        </p>
+        <p>
+        You know it all<br />
+        You’re my best friend <br />
+        The morning will come again<br />
+        Because no darkness, <br />
+        No season <br />
+        Can last forever<br />
+        </p>
+        <p>
+        I guess cherry blossoms are blooming <br />
+        I guess this winter is ending too <br />
+        I miss you (I miss you, ah) <br />
+        I miss you (I miss you, ah-ah-ah) <br />
+        If you wait a little longer (a little longer) <br />
+        If you stay up for a few more nights<br />
+        I’ll go meet you (go meet you) <br />
+        I’ll come get you “get you”<br />
+        Yeah, eh-eh yeah yeah <br />
+        </p>
+        <p>
+        Pass the end of winter’s cold<br />
+        Until spring day comes again <br />
+        Until the flowers bloom again <br />
+        Please stay there a little longer, a little longer<br />
+        </p>
         <h2>A Supplementary Story: You Never Walk Alone</h2>
         <p>
         예 신은 왜 자꾸만
