@@ -170,6 +170,87 @@ function App() {
                   너와 나 함께라면 웃을 수 있으니까<br />
                   "너와 나 함께라면 웃을 수 있으니까"<br />
                 </p>
+                <h2>
+                A Supplementary Story: You never Walk Alone Translation
+                </h2>
+                <p>
+Hey, why does God always<br />
+Make us feel so lonely?<br />
+Oh no no no no no no<br />
+Yeah, even if i’m covered in scars<br />
+I can smile when we’re together<br />
+                </p>
+                <p>
+At the end of this road i’ll walk alone (i’ll walk alone)<br />
+Whatever there may be (there may be), i'll take my step (take my step)<br />
+Sometimes I may get tired or sick<br />
+That’s okay because I’m by your side<br />
+Because If you and I are together<br />
+I can smile<br />
+                </p>
+      <p>
+I want to fly but I have no wings, <br />
+But your hands will become my wings<br />
+      </p>
+<p>
+I want to forget the dark and lonely things<br />
+Together with you<br />
+</p>
+<p>
+These wings grew from my pain<br />
+But they’re wings going towards the light<br />
+</p>
+<p>
+Even if it's tiring and painful, If i can fly, i'll fly<br />
+Will you hold my hands<br />
+So I won’t be afraid no more?<br />
+Because If you and I are together<br />
+I can smile<br />
+</p>
+<p>
+Even if this is the path I chose<br />
+And even if they say it's my fate<br />
+Because I created all of this<br />
+Even if it's the price I must pay for this life<br />
+</p>
+<p>
+Will you walk with me?<br />
+Will you fly with me?<br />
+To reach the edge of the sky<br />
+So I can touch your hand<br />
+Even if it hurts like this,<br />
+If you and I are together<br />
+I can smile<br />
+</p>
+<p>
+Ayy I never walk alone<br />
+I feel the warmth of your hand in mine<br />
+Ayy you never walk alone<br />
+When you feel me, you're not alone either<br />
+</p>
+<p>
+Come on crawl, crawl,crawl<br />
+Crawl it, like it like that<br />
+Baby walk, walk, walk<br />
+Walk it, like it like that<br />
+Baby run, run, run<br />
+Run it, like it like that<br />
+Baby fly, fly, fly<br />
+Fly it, like it like that<br />
+</p>
+<p>
+Even if this road is long and rough,<br />
+Will you stay with me?<br />
+Even if we fall and get hurt, <br />
+Will you stay with me?<br />
+</p>
+<p>
+Ayy I never walk alone<br />
+If you and I are together, we can smile<br />
+Ayy you never walk alone<br />
+If you and I are together, we can smile<br />
+If you and I are together, we can smile<br />
+</p>
                 {/* Add more lyrics paragraphs here if needed */}
               </div>
               {/* Add more lyrics divs for other languages if needed */}
