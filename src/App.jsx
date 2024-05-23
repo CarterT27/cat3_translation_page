@@ -11,7 +11,10 @@ function App() {
         </div>
         <div className="container">
         <div className="lyrics-container">
-        <h2 className="title">[Insert Group Translator’s Statement Here]</h2>
+        <h2>Translators' Statement</h2>
+        <p>
+        Insert translators' statement here
+        </p>
         <div className="lyrics">
         <div className="korean-lyrics">
         <h2>Spring Day</h2>
