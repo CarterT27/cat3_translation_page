@@ -12,8 +12,10 @@ function App() {
         <div className="container">
         <div className="lyrics-container">
         <h2>Translators' Statement</h2>
+        <p>BTS, or Bangtan Sonyeondan, is a globally renowned South Korean boy band formed by Big Hit Entertainment in 2013. The group, consisting of seven members—RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook—initially gained attention for their socially conscious lyrics that address mental health, self-love, and societal pressures. Over the years, BTS has transcended cultural and linguistic barriers, becoming one of the most influential music groups worldwide. They have garnered a massive following, with nearly 28 million monthly listeners on Spotify, and have played a pivotal role in popularizing KPop, a genre that has seen exponential growth in global popularity over the past decade.
+        </p>
         <p>
-        Insert translators' statement here
+        The songs "Spring Day" and "You Never Walk Alone," from the BTS album You Never Walk Alone, exemplify the band's depth and emotional range. "Spring Day" is a poignant reflection on loss and longing, using the metaphor of changing seasons to convey the hope of reuniting with a friend who is no longer present. It is widely believed that the song references the Sewol Ferry tragedy, a devastating incident in South Korea that resulted in 304 deaths. This connection adds a layer of profound grief and remembrance to the song's already emotional lyrics. "You Never Walk Alone" addresses the struggles and hardships faced by each of the BTS members, with themes of encouragement and resilience. Both songs showcase BTS's ability to infuse their music with deep emotional resonance, drawing on personal and collective experiences to create universally relatable art. These songs' translations, influenced by theorists Walter Benjamin and St. Jerome, aim to bridge the cultural and linguistic gap, preserving the original emotional depth while making them accessible to a broader audience.
         </p>
         <div className="lyrics">
         <div className="korean-lyrics">
