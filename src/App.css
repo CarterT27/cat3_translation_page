@@ -4,6 +4,30 @@ body {
   background-color: #f3f4f6;
   color: #333333;
 }
+.footer {
+  text-align: left;
+  font-size: medium;
+}
+.main-title {
+  font-family: serif;
+  font-size: 36px;
+  font-weight: bold;
+
+}
+.side-image {
+  margin-top:50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  max-width: 350px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+}
 
 .header {
   background-color: #333333;
@@ -234,3 +258,5 @@ body {
 .bibliography a:hover {
   color: #6b46c1;
 }
+
+
