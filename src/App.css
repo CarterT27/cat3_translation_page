@@ -7,6 +7,7 @@ body {
 .footer {
   text-align: left;
   font-size: medium;
+  margin-bottom: 10px;
 }
 .main-title {
   font-family: serif;
@@ -21,12 +22,48 @@ body {
   margin-bottom: 0px;
   max-width: 350px;
   border-radius: 8px;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+#ferry {
+  display: flex;
+  padding-top: 1750px;
+  border-radius: 8px;
+}
+#snow {
+  display: flex;
+  padding-top: 1750px;
+  border-radius: 8px;
+}
+#friends {
+  display: flex;
+  padding-top: 1750px;
+  border-radius: 8px;
+}
+#cherry {
+  display: flex;
+  padding-top: 1750px;
+  border-radius: 8px;
+}
+#train {
+  display: flex;
+  padding-top: 1750px;
+  border-radius: 8px;
+}
+#amuse {
+  display: flex;
+  padding-top: 1750px;
+  border-radius: 8px;
+}
+
 
 .main-container {
   display: flex;
   align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  height: 100%;
+  margin: auto;
+
 }
 
 .header {

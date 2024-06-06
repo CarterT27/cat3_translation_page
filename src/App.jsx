@@ -1,6 +1,15 @@
 import "./App.css";
 import springDayImage from "./assets/btsspringday.jpeg"
 import walkAlone from "./assets/walkalone.png"
+import ferry from "./assets/ferry.webp"
+import train from "./assets/traintracks.jpeg"
+import cherry from "./assets/cherry.jpeg"
+import amusement from "./assets/amusement.webp"
+import snow from "./assets/snow.jpeg"
+import friends from "./assets/friends.jpeg"
+
+
+
 // import '@tailwindcss/tailwind.css'
 
 function App() {
@@ -16,8 +25,13 @@ function App() {
           </header>
         </div>
         <div className="main-container">
-          <img src={springDayImage} alt="BTS Spring Day" className="side-image" />
-          <div className="container">
+          <div className="images">
+            <img src={springDayImage} alt="BTS Spring Day" className="side-image" />
+            <img src={ferry} alt="BTS Spring Day" id="ferry" className="side-image" />
+            <img src={cherry} alt="BTS Spring Day" id="cherry" className="side-image" />
+            <img src={snow} alt="BTS Spring Day" id="snow" className="side-image" />
+          </div>
+          <div className="container">`
             <div className="lyrics-container">
               <h2>Translators' Statement</h2>
               <p>
@@ -518,7 +532,12 @@ function App() {
               </ul>
             </div>
           </div>
+          <div className="images">
           <img src={walkAlone} alt="BTS Spring Day" className="side-image" />
+          <img src={train} alt="BTS Spring Day" id="train" className="side-image" />
+          <img src={amusement} alt="BTS Spring Day" id="amuse" className="side-image" />
+          <img src={friends} alt="BTS Spring Day" id="friends" className="side-image" />
+          </div>
         </div>
       </div>
     </>
